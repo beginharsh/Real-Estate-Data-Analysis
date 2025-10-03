@@ -24,6 +24,6 @@ To analyze housing trends in Gurugram and identify factors affecting property pr
 - 3BHK and 4BHK apartments dominate the market.  
 - Demand rising in suburban Gurugram (Sohna Road).
 
-- ### Netflix Home
-![Dashbaord image](images/Visual1.png)
+- ### Dashboard screenshot 1
+![](images/Visual1.png)
 
