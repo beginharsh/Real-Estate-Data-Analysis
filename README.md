@@ -4,7 +4,7 @@
 To analyze housing trends in Gurugram and identify factors affecting property prices.  
 
 ## 📊 Dataset  
-- Collected from Kaggle/real estate dataset ![Dataset link](https://www.kaggle.com/datasets/nikhilmehrahr26/gurgaon-real-estate-dataset?utm_source=chatgpt.com)
+- Collected from Kaggle/real estate dataset
 - ~5,000 rows with property type, location, price, and features.
 
 ## 🛠️ Tools Used    
