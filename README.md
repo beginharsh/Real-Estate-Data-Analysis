@@ -23,3 +23,7 @@ To analyze housing trends in Gurugram and identify factors affecting property pr
 - Properties near CyberHub and Golf Course Road had the highest prices.  
 - 3BHK and 4BHK apartments dominate the market.  
 - Demand rising in suburban Gurugram (Sohna Road).
+
+- ### Netflix Home
+![Dashbaord image](images/Visual1.png)
+
