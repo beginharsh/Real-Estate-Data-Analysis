@@ -27,3 +27,5 @@ To analyze housing trends in Gurugram and identify factors affecting property pr
 - ### Dashboard screenshot 1
 ![](images/Visual1.png)
 
+- ### Dashboard screenshot 2
+![](images/Visual2.png)
